@@ -1,4 +1,4 @@
-# note
+# Note
 Here are some notes about mathematical courses in my university (HIT), so most of them were written in **Chinese**. I created these notes during final exam preparing periods. 
 
 Most notes may be simple but with the most important knowledge structure. I believe these notes would be useful in reviewing such courses, rather than learning. 
@@ -9,7 +9,7 @@ I also write summaries about some courses in [my site](https://github.com/chuanb
 
 
 
-# TextBooks
+# Textbooks
 
 ## College Physics 
 
