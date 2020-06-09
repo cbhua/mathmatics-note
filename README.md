@@ -1,118 +1,31 @@
-# Note
-Here are some notes about mathematical courses in my university (HIT), so most of them were written in **Chinese**. I created these notes during final exam preparing periods. 
+# Note about Mathematical Courses
+Here are some notes about mathematical courses in my university (HIT), most of them were written in **Chinese**. I created these notes during final exam preparing periods. 
 
 Most notes may be simple but with the most important knowledge structure. I believe these notes would be useful in reviewing such courses, rather than learning. 
 
 Since mathematical formulas are hard to type (or not so convenient), I chose to complete them by writing, on paper or iPad. For those notes in paper, I scanned them and created pdfs. 
 
-I also write summaries about some courses in [my site](https://github.com/chuanbohua/note.git), about my overall understandings. 
+I also write summaries about some courses in [my site](https://timegg.top), about my overall understandings. 
 
 
 
 # Textbooks
 
-## College Physics 
+Here are textbooks we used, hope to be useful for referencing. 
 
-> 《大学物理学》
->
-> Author(s): 张三慧, 王虎珠；
->
-> Publisher: 清华大学出版社；
->
-> ISBN: 7302006407, 9787302006404;
+| Course | Course in Chinese | Author | ISBN |
+| ---- | ---- | ---- | ---- |
+| College Physics | 大学物理学 | 张三慧 et al. | 7302006407 |
+| Deep Learning | 深度学习 | Ian Goodfellow et al. | 9780262035613 |
+| Differential Geometry | 微分几何 | 陈维桓 | 9787301286548 |
+| Mathematical Analysis | 数学分析 | 陈纪修 | 703017835 |
+| Mathematical Physics Equation | 数学物理方程 | 王明新 | 730220618X |
+| Numerical Analysis | 数值分析 | 林成森 | 703016227 |
+| Operation Research | 运筹学 | 刘满凤 | 9787302229988 |
+| Partial Differential Equation | 偏微分方程 | 李荣华 | 7040307294 |
+| Real Analysis | 实变函数 | 郑维行 | 9787040292190 |
+| Topology | 拓扑学 | 熊金城 | 7040322374 |
+| Informational Theory | 信息论 | 沈世镒  et al. | 7040143747 |
+| Functional Analysis | 泛函分析 | 郑维行 | 9787040292190 |
+| Probability Analysis | 概率论 | 茆诗松 | 9787040312102 |
 
-## Deep Learning
-
-> *Deep Learning*
->
-> Author(s): Ian Goodfellow, Yoshua Bengio, Aaron Courville；
->
-> Publisher: MIT；
->
-> ISBN: 9780262035613;
-
-## Differential Geometry
-
-> 《微分几何（第二版）》
->
-> Author(s): 陈维桓；
->
-> Publisher: 北京大学出版社；
->
-> ISBN: 9787301286548;
-
-## Mathematical Analysis
-
-> 《数学分析》
->
-> Author(s): 陈纪修；
->
-> Publisher: 高等教育出版社；
->
-> ISBN: 703017835;
->
-
-## Mathematical Physics Equation
-
-> 《数学物理方程》
->
-> Author(s): 王明新；
->
-> Publisher: 清华大学出版社；
->
-> ISBN: 730220618X;
->
-
-## Numerical Analysis
-
-> 《数值分析》
->
-> Author(s): 林成森；
->
-> Publisher: 科学出版社；
->
-> ISBN: 703016227;
->
-
-## Operation Research
-
-> 《运筹学教程》
->
-> Author(s): 刘满凤；
->
-> Publisher: 清华大学出版社；
->
-> ISBN: 9787302229988 ;
->
-
-## Partial Differential Equations
-
-> 《偏微分方程数值解法》
->
-> Author(s): 李荣华；
->
-> Publisher: 高等教育出版社；
->
-> ISBN: 7040307294;
->
-
-## Real Analysis
-
-> 《实变函数与泛函分析概要》
->
-> Author(s): 郑维行；
->
-> Publisher: 高等教育出版社；
->
-> ISBN: 9787040292190;
->
-
-## Topology
-
-> 《点集拓扑讲义》
->
-> Author(s): 熊金城；
->
-> Publisher: 高等教育出版社；
->
-> ISBN: 7040322374;
