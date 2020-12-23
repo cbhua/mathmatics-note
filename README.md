@@ -5,8 +5,6 @@ Most notes may be simple but with the most important knowledge structure. I beli
 
 Since mathematical formulas are hard to type (or not so convenient), I chose to complete them by writing, on paper or iPad. For those notes in paper, I scanned them and created pdfs. 
 
-I also write summaries about some courses in [my site](https://timegg.top), about my overall understandings. 
-
 
 
 # Textbooks
