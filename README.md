@@ -1,4 +1,11 @@
-# Note about Mathematical Courses
+# 	➕ Note about Mathematical Courses
+
+这里是一些我本科在哈尔滨工业大学数学系学习课程的笔记，这些笔记其实更多的是复习笔记，类似于复习提纲，着重于课程学习的框架和整体脉络逻辑，方便在期末复习的时候记忆内容和加深理解。
+
+这里的笔记只是其中的一部分，有些课程我并没有做成系统的笔记或者复习提纲，所以并没有上传。在参考这些笔记的时候最好可以对照着课本，因为笔记中忽略了大部分的细节，想要扎实掌握一门课程还是仔细推进课本会比较好。
+
+早起的一些笔记用纸笔写的然后扫描上传，后来换成了 iPad 和 Apple Pencil，观感可能会好一些。
+
 Here are some notes about mathematical courses in my university (HIT), most of them were written in **Chinese**. I created these notes during final exam preparing periods. 
 
 Most notes may be simple but with the most important knowledge structure. I believe these notes would be useful in reviewing such courses, rather than learning. 
@@ -7,7 +14,7 @@ Since mathematical formulas are hard to type (or not so convenient), I chose to 
 
 
 
-# Textbooks
+## 📚 Textbooks
 
 Here are textbooks we used, hope to be useful for referencing. 
 
